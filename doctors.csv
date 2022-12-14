@@ -1,0 +1,127 @@
+,Name,Specialization,City,Waiting Time,Fees
+0,Dr Thi Thanh Tam MAI,Paris,Medecin generaliste,null,70
+1,Centre médical dentaire Médident - Montparnasse,Paris,Medecin generaliste,null,Conventionné
+2,Centre de santé de la Croix-Rouge - Olympiades,Paris,Medecin generaliste,null,Conventionné
+3,Dr Gérard GARCON,Paris,Medecin generaliste,null,60
+4,Dr Jean Marie COLIN,Paris,Medecin generaliste,null,40
+5,Centre Dentaire Nobel Santé + Paris 8 Pépinière,Paris,Medecin generaliste,null,23
+6,Dr Léa Bazin,Paris,Medecin generaliste,null,25
+7,Dr Estelle Gregoire,Paris,Medecin generaliste,null,25
+8,Dr Elie Paul COHEN,Paris,Medecin generaliste,null,40
+9,Dr Omar Khebichat,Paris,Medecin generaliste,null,25
+10,Dr Soumaya BOULALAM,Paris,Medecin generaliste,null,25
+11,Dr Amélie Aïm-Eusébi,Paris,Medecin generaliste,null,25
+12,Dr Patrick-Pierre SABATIER,Paris,Medecin generaliste,null,100
+13,Dr Feten AMIRA,Paris,Medecin generaliste,null,Conventionné
+14,Dr Julia Molinari,Paris,Medecin generaliste,null,25
+15,Dr Celina Mao,Paris,Medecin generaliste,null,25
+16,Dr Caroline PAUL,Paris,Medecin generaliste,null,Conventionné
+17,Dr Sophie Bernard,Paris,Medecin generaliste,null,25
+18,Dr Raphaël GILBERT,Paris,Medecin generaliste,null,25
+19,Dr Camille VERRIERE,Paris,Medecin generaliste,null,25
+20,Centre de Santé Richerand,Paris,Dentiste,null,Conventionné
+21,Dr Emmanuelle Farouz,Paris,Dentiste,null,Conventionné
+22,Centre Dentaire Ternes Wagram,Paris,Dentiste,null,Conventionné
+23,Dr Théodore Sebbag,Paris,Dentiste,null,23
+24,Dentoplus,Paris,Dentiste,null,23
+25,Dr Laurent Mialon,Paris,Dentiste,null,23
+26,Dr Dan BOTBOL,Paris,Dentiste,null,23
+27,Dr Jean-Charles Fitoussi,Paris,Dentiste,null,23
+28,COSEM Magenta - Centre dentaire Magenta,Paris,Dentiste,null,Conventionné
+29,Dr Charlotte HOUZET,Paris,Dentiste,null,Conventionné
+30,Dr Emma de FERRIER SABBAH,Paris,Dentiste,null,23
+31,Dr Eliott MASOLA,Paris,Dentiste,null,23
+32,Dr Corinne MITEVSKI,Paris,Dentiste,null,23
+33,Centre Dentaire Nobel Santé + Paris 11 République,Paris,Dentiste,null,23
+34,Dr Denis CATTAN,Paris,Dentiste,null,23
+35,Dr César EMMANUEL,Paris,Dentiste,null,23
+36,Dr Michele Bismuth,Paris,Dentiste,null,23
+37,Dr Michel Sala,Paris,Dentiste,null,Conventionné
+38,Dr Corinne BISMUTH SELLEM,Paris,Dentiste,null,23
+39,Dr Nathalie Calvo,Paris,Dentiste,null,23
+40,Vaccination Covid-19 MSP Jean Jaurès,Lyon,Medecin generaliste,null,Weird value
+41,Dr Victor Puentedura,Lyon,Medecin generaliste,null,25
+42,Dr Julien Dessertenne,Lyon,Medecin generaliste,null,Conventionné
+43,Dr Raphaël PEZERAT,Lyon,Medecin generaliste,null,25
+44,Dr Cyril Hariche,Lyon,Medecin generaliste,null,25
+45,Dr Pierre-Yves Meunier,Lyon,Medecin generaliste,null,25
+46,Dr Franck Chemoul,Lyon,Medecin generaliste,null,25
+47,Dr Anne Lyse Bonardi,Lyon,Medecin generaliste,null,25
+48,Dr Pauline Chappuis,Lyon,Medecin generaliste,null,25
+49,Dr Franck RAIMONDO,Lyon,Medecin generaliste,null,39
+50,Dr Justine Dailly,Lyon,Medecin generaliste,null,25
+51,Dr Brice DIVISIA,Lyon,Medecin generaliste,null,25
+52,Dr Camille LE BIHAN,Lyon,Medecin generaliste,null,25
+53,Dr Florence Rabel,Lyon,Medecin generaliste,null,25
+54,Dr Elodie Bezanson,Lyon,Medecin generaliste,null,25
+55,Dr Elodie CAVAGNA,Lyon,Medecin generaliste,null,25
+56,Dr Anne Gatti,Lyon,Medecin generaliste,null,25
+57,Dr Benjamin POTENCIER,Lyon,Medecin generaliste,null,25
+58,Dr Stéphanie TURROU,Lyon,Medecin generaliste,null,25
+59,Dr Alexis PRIOREAU,Lyon,Medecin generaliste,null,30
+60,Dr Benjamin WIESENFELD,Lyon,Dentiste,null,23
+61,COSEM - Lyon,Lyon,Dentiste,null,Conventionné
+62,Dr Ana SEMPERE HANCK,Lyon,Dentiste,null,23
+63,Dr Julien MARCHAND,Lyon,Dentiste,null,Conventionné
+64,Dr Vivien CHAMBAS,Lyon,Dentiste,null,Conventionné
+65,Dr Jamila LORENTZ,Lyon,Dentiste,null,23
+66,Dr Antoine MACHURAT,Lyon,Dentiste,null,23
+67,Dr Céline POUPENEY,Lyon,Dentiste,null,Conventionné
+68,Dr Marie Laure VINCENT,Lyon,Dentiste,null,23
+69,Dr Camille GONIN,Lyon,Dentiste,null,23
+70,Dr Arllan Parsa,Lyon,Dentiste,null,23
+71,Clothilde Nau,Lyon,Dentiste,null,Conventionné
+72,Dr Sonia Bruche,Lyon,Dentiste,null,Conventionné
+73,Dr Cécile LUC,Lyon,Dentiste,null,23
+74,Dr Anne-Cécile GRATEAU,Lyon,Dentiste,null,23
+75,Simon Lannelongue,Lyon,Dentiste,null,23
+76,Dr Ouahiba Arar,Lyon,Dentiste,null,Conventionné
+77,Centre dentaire Labelia - Lyon 4,Lyon,Dentiste,null,Conventionné
+78,Lyon 7 - Oxance,Lyon,Dentiste,null,Conventionné
+79,Dr Pierre PAILLET,Lyon,Dentiste,null,23
+80,Dr Ionut Catalin Branzan,Sancerre,Medecin generaliste,null,25
+81,Dr Armand Jurien de La Gravière,Sancerre,Medecin generaliste,null,25
+82,Dr Paul MONASSON,Sancerre,Medecin generaliste,null,25
+83,Dr Xavier ROMARY,Sancerre,Medecin generaliste,null,25
+84,Dr Chantal COCK,Sancerre,Medecin generaliste,null,30
+85,Dr Severine GARIN BEAUVAIS,Sancerre,Medecin generaliste,null,25
+86,Dr Alexandra ALBOTICA,Sancerre,Medecin generaliste,null,25
+87,Dr Marie BARANGER,Sancerre,Medecin generaliste,null,25
+88,Dr Elena-Isabela BIBIRI,Sancerre,Medecin generaliste,null,25
+89,Dr Rosu BENI,Sancerre,Medecin generaliste,null,25
+90,Dr Vesela KITANOVA,Sancerre,Medecin generaliste,null,25
+91,Dr Nadezhda SHESTAKOVA,Sancerre,Medecin generaliste,null,25
+92,Dr Benoit Chaumont,Sancerre,Medecin generaliste,null,25
+93,Dr Catherine BOURDEAUX,Sancerre,Medecin generaliste,null,25
+94,Dr Francoise VEUILLOT,Sancerre,Medecin generaliste,null,25
+95,Dr Petar STOYANOV,Sancerre,Medecin generaliste,null,25
+96,Dr Ana BOZBEI,Sancerre,Medecin generaliste,null,25
+97,Dr Amélie BARDIAUX,Sancerre,Medecin generaliste,null,25
+98,Dr David VIE,Sancerre,Medecin generaliste,null,25
+99,Dr Sophie DUTRIEU PASCAUD,Sancerre,Medecin generaliste,null,25
+100,Dr Elodie CHATEL,Sancerre,Dentiste,null,23
+101,Dr Silvia COSTACHE,Sancerre,Dentiste,null,Conventionné
+102,Dr Octavian HOLOSTENCU,Sancerre,Dentiste,null,23
+103,Dr Stephane KIRSCHLEGER,Confolens,Medecin generaliste,null,25
+104,Dr Etienne Lassalle,Confolens,Medecin generaliste,null,25
+105,Dr Marlène Heredia,Confolens,Medecin generaliste,null,25
+106,Dr Pierre Cornu,Confolens,Medecin generaliste,null,25
+107,Dr Gregory Pinganaud,Confolens,Medecin generaliste,null,25
+108,Dr Christelle Hébras-Lelong,Confolens,Medecin generaliste,null,25
+109,Dr Christine BESSAUDOU LACHAUD,Confolens,Medecin generaliste,null,Conventionné
+110,Dr Fabrice Durand,Confolens,Medecin generaliste,null,Conventionné
+111,Dr Isabelle Lorget,Confolens,Medecin generaliste,null,Conventionné
+112,Pharmacie Labussiere,Confolens,Medecin generaliste,null,Conventionné
+113,Dr Marianne Teste,Confolens,Medecin generaliste,null,25
+114,Dr Chantal DE SAMIE,Confolens,Medecin generaliste,null,25
+115,Dr Vincent Reynier,Confolens,Medecin generaliste,null,25
+116,Dr Fanny Roulet-Coudrier,Confolens,Medecin generaliste,null,25
+117,Dr Jean-Philippe Coisne,Confolens,Medecin generaliste,null,25
+118,Dr Jose DE PABLOS MARTIN,Confolens,Medecin generaliste,null,25
+119,Dr Marie Lise Serez,Confolens,Medecin generaliste,null,25
+120,Dr Jean-Rémi CUBAUD,Confolens,Medecin generaliste,null,25
+121,Dr Philippe Petit,Confolens,Medecin generaliste,null,30
+122,Dr Madalena MOREIRA,Confolens,Dentiste,null,Conventionné
+123,Dr Ricardo BRANCO,Confolens,Dentiste,null,23
+124,Dr Madeleine NGOMBET BITOO,Confolens,Dentiste,null,Conventionné
+125,Dr Constance BRUNET,Confolens,Dentiste,null,23

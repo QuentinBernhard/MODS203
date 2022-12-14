@@ -1,6 +1,8 @@
 from pathlib import Path
 import random
 import time
+import csv
+import pandas as pd
 
 from selenium.webdriver.support.wait import WebDriverWait
 import tools
@@ -21,23 +23,21 @@ class Driver:
 
     def __init__(self):
         options = webdriver.ChromeOptions()
-        options.add_argument("start-maximized")
         options.add_argument("--disable-blink-features")
         options.add_argument("disable-popup-blocking")
         options.add_argument("disable-notifications")
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_experimental_option("excludeSwitches", ["enable-automation"])
         options.add_experimental_option('useAutomationExtension', False)
-        self.driver = webdriver.Chrome(ChromeDriverManager().install())
+        self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
 
 
-    def connect(self):
-        self.driver.get("https://www.doctolib.fr")
-        # TabsInteraction.TabsCreation(self.driver, "https://www.doctolib.fr", "")
-        # TabsInteraction.switchToTab(self.driver, 0)
-        print("Connecting to Doctolib")
-        time.sleep(1)
+
+    def connect(self, url):
+        self.driver.get(url)
+        print("Connecting to", url)
+        time.sleep(3)
 
 
     def getSpecializations(self):
@@ -92,14 +92,63 @@ class Driver:
         return specializations
 
 
-connector = Driver()
-connector.connect()
-specializations = connector.getSpecializations()
-print(specializations)
+
+    
+
+# connector = Driver()
+# connector.connect()
+# specializations = connector.getSpecializations()
+# print(specializations)
 
 
+# time.sleep(10)
+
+print("Loading ...")
+
+
+def getAllCities():
+    connector = Driver()
+    connector.connect("https://www.linternaute.com/ville/index/villes")
+
+    #popup
+    try:
+        WebDriverWait(connector.driver, tempsAttente).until(EC.visibility_of_element_located((By.XPATH, '//div[text()="Fermer et accepter"]'))).click()
+    except:
+        pass
+    
+    arr = []
+    path = '/html/body/div[2]/div/div[1]/div[2]/div[1]/div/div/div/div/div[4]/ul'
+
+    #Enregistrer toutes les villes une par une (pour chaque page)
+    for _ in range(700):
+
+        #Trouver les élèments qui correspondent aux villes
+        WebDriverWait(connector.driver, tempsAttente).until(EC.visibility_of_element_located((By.XPATH, path)))
+        print("Div found")
+        listLi = connector.driver.find_elements(by=By.TAG_NAME, value="li")
+        print("List found")
+
+        #"nettoyer" tous ces éléments
+        for li in listLi:
+            name = li.text
+            if '(' in name and ')' in name:
+                arr.append(name.split(" ")[0])
+
+        pd.DataFrame(arr).to_csv("data.csv")
+
+        print(arr[len(arr)-30:])
+
+        try:
+            WebDriverWait(connector.driver, tempsAttente).until(EC.visibility_of_element_located((By.XPATH, '//div[@class="ccmcss_paginator_next"]'))).click()
+        except:
+            pass
+        
+        
+
+
+
+getAllCities()
 time.sleep(10)
-
 
 
 
