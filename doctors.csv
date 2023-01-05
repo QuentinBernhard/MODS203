@@ -1,127 +1,147 @@
 ,Name,Specialization,City,Waiting Time,Fees
-0,Dr Thi Thanh Tam MAI,Paris,Medecin generaliste,null,70
-1,Centre médical dentaire Médident - Montparnasse,Paris,Medecin generaliste,null,Conventionné
-2,Centre de santé de la Croix-Rouge - Olympiades,Paris,Medecin generaliste,null,Conventionné
-3,Dr Gérard GARCON,Paris,Medecin generaliste,null,60
-4,Dr Jean Marie COLIN,Paris,Medecin generaliste,null,40
-5,Centre Dentaire Nobel Santé + Paris 8 Pépinière,Paris,Medecin generaliste,null,23
-6,Dr Léa Bazin,Paris,Medecin generaliste,null,25
-7,Dr Estelle Gregoire,Paris,Medecin generaliste,null,25
-8,Dr Elie Paul COHEN,Paris,Medecin generaliste,null,40
-9,Dr Omar Khebichat,Paris,Medecin generaliste,null,25
-10,Dr Soumaya BOULALAM,Paris,Medecin generaliste,null,25
-11,Dr Amélie Aïm-Eusébi,Paris,Medecin generaliste,null,25
-12,Dr Patrick-Pierre SABATIER,Paris,Medecin generaliste,null,100
-13,Dr Feten AMIRA,Paris,Medecin generaliste,null,Conventionné
-14,Dr Julia Molinari,Paris,Medecin generaliste,null,25
-15,Dr Celina Mao,Paris,Medecin generaliste,null,25
-16,Dr Caroline PAUL,Paris,Medecin generaliste,null,Conventionné
-17,Dr Sophie Bernard,Paris,Medecin generaliste,null,25
-18,Dr Raphaël GILBERT,Paris,Medecin generaliste,null,25
-19,Dr Camille VERRIERE,Paris,Medecin generaliste,null,25
-20,Centre de Santé Richerand,Paris,Dentiste,null,Conventionné
-21,Dr Emmanuelle Farouz,Paris,Dentiste,null,Conventionné
-22,Centre Dentaire Ternes Wagram,Paris,Dentiste,null,Conventionné
-23,Dr Théodore Sebbag,Paris,Dentiste,null,23
-24,Dentoplus,Paris,Dentiste,null,23
-25,Dr Laurent Mialon,Paris,Dentiste,null,23
-26,Dr Dan BOTBOL,Paris,Dentiste,null,23
-27,Dr Jean-Charles Fitoussi,Paris,Dentiste,null,23
-28,COSEM Magenta - Centre dentaire Magenta,Paris,Dentiste,null,Conventionné
-29,Dr Charlotte HOUZET,Paris,Dentiste,null,Conventionné
-30,Dr Emma de FERRIER SABBAH,Paris,Dentiste,null,23
-31,Dr Eliott MASOLA,Paris,Dentiste,null,23
-32,Dr Corinne MITEVSKI,Paris,Dentiste,null,23
-33,Centre Dentaire Nobel Santé + Paris 11 République,Paris,Dentiste,null,23
-34,Dr Denis CATTAN,Paris,Dentiste,null,23
-35,Dr César EMMANUEL,Paris,Dentiste,null,23
-36,Dr Michele Bismuth,Paris,Dentiste,null,23
-37,Dr Michel Sala,Paris,Dentiste,null,Conventionné
-38,Dr Corinne BISMUTH SELLEM,Paris,Dentiste,null,23
-39,Dr Nathalie Calvo,Paris,Dentiste,null,23
-40,Vaccination Covid-19 MSP Jean Jaurès,Lyon,Medecin generaliste,null,Weird value
-41,Dr Victor Puentedura,Lyon,Medecin generaliste,null,25
-42,Dr Julien Dessertenne,Lyon,Medecin generaliste,null,Conventionné
-43,Dr Raphaël PEZERAT,Lyon,Medecin generaliste,null,25
-44,Dr Cyril Hariche,Lyon,Medecin generaliste,null,25
-45,Dr Pierre-Yves Meunier,Lyon,Medecin generaliste,null,25
-46,Dr Franck Chemoul,Lyon,Medecin generaliste,null,25
-47,Dr Anne Lyse Bonardi,Lyon,Medecin generaliste,null,25
-48,Dr Pauline Chappuis,Lyon,Medecin generaliste,null,25
-49,Dr Franck RAIMONDO,Lyon,Medecin generaliste,null,39
-50,Dr Justine Dailly,Lyon,Medecin generaliste,null,25
-51,Dr Brice DIVISIA,Lyon,Medecin generaliste,null,25
-52,Dr Camille LE BIHAN,Lyon,Medecin generaliste,null,25
-53,Dr Florence Rabel,Lyon,Medecin generaliste,null,25
-54,Dr Elodie Bezanson,Lyon,Medecin generaliste,null,25
-55,Dr Elodie CAVAGNA,Lyon,Medecin generaliste,null,25
-56,Dr Anne Gatti,Lyon,Medecin generaliste,null,25
-57,Dr Benjamin POTENCIER,Lyon,Medecin generaliste,null,25
-58,Dr Stéphanie TURROU,Lyon,Medecin generaliste,null,25
-59,Dr Alexis PRIOREAU,Lyon,Medecin generaliste,null,30
-60,Dr Benjamin WIESENFELD,Lyon,Dentiste,null,23
-61,COSEM - Lyon,Lyon,Dentiste,null,Conventionné
-62,Dr Ana SEMPERE HANCK,Lyon,Dentiste,null,23
-63,Dr Julien MARCHAND,Lyon,Dentiste,null,Conventionné
-64,Dr Vivien CHAMBAS,Lyon,Dentiste,null,Conventionné
-65,Dr Jamila LORENTZ,Lyon,Dentiste,null,23
-66,Dr Antoine MACHURAT,Lyon,Dentiste,null,23
-67,Dr Céline POUPENEY,Lyon,Dentiste,null,Conventionné
-68,Dr Marie Laure VINCENT,Lyon,Dentiste,null,23
-69,Dr Camille GONIN,Lyon,Dentiste,null,23
-70,Dr Arllan Parsa,Lyon,Dentiste,null,23
-71,Clothilde Nau,Lyon,Dentiste,null,Conventionné
-72,Dr Sonia Bruche,Lyon,Dentiste,null,Conventionné
-73,Dr Cécile LUC,Lyon,Dentiste,null,23
-74,Dr Anne-Cécile GRATEAU,Lyon,Dentiste,null,23
-75,Simon Lannelongue,Lyon,Dentiste,null,23
-76,Dr Ouahiba Arar,Lyon,Dentiste,null,Conventionné
-77,Centre dentaire Labelia - Lyon 4,Lyon,Dentiste,null,Conventionné
-78,Lyon 7 - Oxance,Lyon,Dentiste,null,Conventionné
-79,Dr Pierre PAILLET,Lyon,Dentiste,null,23
-80,Dr Ionut Catalin Branzan,Sancerre,Medecin generaliste,null,25
-81,Dr Armand Jurien de La Gravière,Sancerre,Medecin generaliste,null,25
-82,Dr Paul MONASSON,Sancerre,Medecin generaliste,null,25
-83,Dr Xavier ROMARY,Sancerre,Medecin generaliste,null,25
-84,Dr Chantal COCK,Sancerre,Medecin generaliste,null,30
-85,Dr Severine GARIN BEAUVAIS,Sancerre,Medecin generaliste,null,25
-86,Dr Alexandra ALBOTICA,Sancerre,Medecin generaliste,null,25
-87,Dr Marie BARANGER,Sancerre,Medecin generaliste,null,25
-88,Dr Elena-Isabela BIBIRI,Sancerre,Medecin generaliste,null,25
-89,Dr Rosu BENI,Sancerre,Medecin generaliste,null,25
-90,Dr Vesela KITANOVA,Sancerre,Medecin generaliste,null,25
-91,Dr Nadezhda SHESTAKOVA,Sancerre,Medecin generaliste,null,25
-92,Dr Benoit Chaumont,Sancerre,Medecin generaliste,null,25
-93,Dr Catherine BOURDEAUX,Sancerre,Medecin generaliste,null,25
-94,Dr Francoise VEUILLOT,Sancerre,Medecin generaliste,null,25
-95,Dr Petar STOYANOV,Sancerre,Medecin generaliste,null,25
-96,Dr Ana BOZBEI,Sancerre,Medecin generaliste,null,25
-97,Dr Amélie BARDIAUX,Sancerre,Medecin generaliste,null,25
-98,Dr David VIE,Sancerre,Medecin generaliste,null,25
-99,Dr Sophie DUTRIEU PASCAUD,Sancerre,Medecin generaliste,null,25
-100,Dr Elodie CHATEL,Sancerre,Dentiste,null,23
-101,Dr Silvia COSTACHE,Sancerre,Dentiste,null,Conventionné
-102,Dr Octavian HOLOSTENCU,Sancerre,Dentiste,null,23
-103,Dr Stephane KIRSCHLEGER,Confolens,Medecin generaliste,null,25
-104,Dr Etienne Lassalle,Confolens,Medecin generaliste,null,25
-105,Dr Marlène Heredia,Confolens,Medecin generaliste,null,25
-106,Dr Pierre Cornu,Confolens,Medecin generaliste,null,25
-107,Dr Gregory Pinganaud,Confolens,Medecin generaliste,null,25
-108,Dr Christelle Hébras-Lelong,Confolens,Medecin generaliste,null,25
-109,Dr Christine BESSAUDOU LACHAUD,Confolens,Medecin generaliste,null,Conventionné
-110,Dr Fabrice Durand,Confolens,Medecin generaliste,null,Conventionné
-111,Dr Isabelle Lorget,Confolens,Medecin generaliste,null,Conventionné
-112,Pharmacie Labussiere,Confolens,Medecin generaliste,null,Conventionné
-113,Dr Marianne Teste,Confolens,Medecin generaliste,null,25
-114,Dr Chantal DE SAMIE,Confolens,Medecin generaliste,null,25
-115,Dr Vincent Reynier,Confolens,Medecin generaliste,null,25
-116,Dr Fanny Roulet-Coudrier,Confolens,Medecin generaliste,null,25
-117,Dr Jean-Philippe Coisne,Confolens,Medecin generaliste,null,25
-118,Dr Jose DE PABLOS MARTIN,Confolens,Medecin generaliste,null,25
-119,Dr Marie Lise Serez,Confolens,Medecin generaliste,null,25
-120,Dr Jean-Rémi CUBAUD,Confolens,Medecin generaliste,null,25
-121,Dr Philippe Petit,Confolens,Medecin generaliste,null,30
-122,Dr Madalena MOREIRA,Confolens,Dentiste,null,Conventionné
-123,Dr Ricardo BRANCO,Confolens,Dentiste,null,23
-124,Dr Madeleine NGOMBET BITOO,Confolens,Dentiste,null,Conventionné
-125,Dr Constance BRUNET,Confolens,Dentiste,null,23
+0,Dr David CHAMBENOIT,Poitiers,Medecin generaliste,"['18', 'janvier']",
+1,Dr Céline BRECHON-GIRAUD,Poitiers,Medecin generaliste,"['11', 'janvier']",
+2,Dr Alain SHEIKHALISHAHI,Poitiers,Medecin generaliste,"['26', 'janvier']",
+3,Dr Violaine Ricoulleau,Poitiers,Medecin generaliste,"['11', 'janvier']",
+4,Dr Airelle PLANQUES,Poitiers,Medecin generaliste,"['16', 'janvier']",
+5,Laura BORTHOMIEU,Poitiers,Medecin generaliste,"['18', 'janvier']",
+6,Dr Angèle DEMION,Poitiers,Medecin generaliste,"['12', 'janvier']",
+7,Dr Karine Brunet,Poitiers,Medecin generaliste,"['17', 'janvier']",
+8,Dr Céline BRECHON-GIRAUD,Poitiers,Medecin generaliste,"['12', 'janvier']",
+9,Centre Médical de Soins Immédiats 86,Poitiers,Medecin generaliste,jeu. 5 janv. 17:00,
+10,Dr Cécile HUMMEL,Poitiers,Medecin generaliste,"['9', 'janvier']",
+11,Dr Elsa CANTOS,Poitiers,Medecin generaliste,jeu. 5 janv. 16:30,
+12,Dr Claire REIF,Poitiers,Medecin generaliste,null,
+13,Dr Sébastien Caquelin,Poitiers,Medecin generaliste,null,
+14,Patricia Mercade Point,Poitiers,Medecin generaliste,null,
+15,Dr Mathilde COULAIS,Poitiers,Medecin generaliste,null,
+16,Stephane Colin,Poitiers,Medecin generaliste,null,
+17,Dr Lakshmipriya Le Bonheur,Poitiers,Medecin generaliste,null,
+18,Dr François Birault,Poitiers,Medecin generaliste,null,
+19,Dr Gabrielle Pequeriau,Poitiers,Medecin generaliste,null,
+20,Dr Lucile Partaud,Poitiers,Medecin generaliste,null,
+21,Dr Marion Delouche,Poitiers,Medecin generaliste,null,
+22,Dr David Souchaud,Poitiers,Medecin generaliste,null,
+23,Dr Stéphanie Mignot - Grandcolin,Poitiers,Medecin generaliste,null,
+24,Dr Laurent Toma,Poitiers,Medecin generaliste,null,
+25,Nathalie Dumureau Peltier,Poitiers,Medecin generaliste,null,
+26,Marc BAHUET,Poitiers,Medecin generaliste,null,
+27,Christophe INGRAND,Poitiers,Medecin generaliste,null,
+28,Dr Déborah CARRIN,Poitiers,Medecin generaliste,null,
+29,Dr Bénédicte Garrigue-Guyonnaud,Poitiers,Medecin generaliste,null,
+30,Dr Yann Tierce,Poitiers,Medecin generaliste,"['12', 'janvier']",
+31,Vincent Louette,Poitiers,Medecin generaliste,"['11', 'janvier']",
+32,Justine Martin,Poitiers,Medecin generaliste,"['11', 'janvier']",
+33,Dr Amandine Merrant,Poitiers,Medecin generaliste,"['19', 'janvier']",
+34,Dr Godefroy Baune,Poitiers,Medecin generaliste,"['12', 'janvier']",
+35,Dr Dolorès LACOSTE,Poitiers,Medecin generaliste,"['27', 'janvier']",
+36,Dr Arnaud Bossard,Poitiers,Medecin generaliste,"['16', 'janvier']",
+37,Dr Aurélie Charonnet,Poitiers,Medecin generaliste,"['16', 'janvier']",
+38,Dr Jean-Luc Autuoro,Poitiers,Medecin generaliste,"['12', 'janvier']",
+39,Dr Xavier LEMERCIER,Poitiers,Medecin generaliste,"['13', 'janvier']",
+40,Dr Alin Fodor,Poitiers,Chirurgien-dentiste,null,
+41,Dr Sylvain COIGNEAU,Poitiers,Chirurgien-dentiste,null,
+42,Dr Pascal Jardin,Poitiers,Chirurgien-dentiste,null,
+43,Temeoo Chauvigny,Poitiers,Ophtalmologue,ven. 6 janv. 12:00,
+44,Dr Athanase Gotzamanis,Poitiers,Ophtalmologue,"['23', 'janvier']",
+45,Dr Chloé DE BEKETCH,Poitiers,Ophtalmologue,null,
+46,Centre d'ophtalmologie Ophtacalypso - Docteurs David Marotte et Chloé de Beketch - Protocole RNO,Poitiers,Ophtalmologue,null,
+47,Dr David MAROTTE,Poitiers,Ophtalmologue,null,
+48,Dr Arielle NEAU,Poitiers,Dermatologue et venerologue,null,
+49,Dr Valentin VELKOV,Poitiers,Dermatologue et venerologue,null,
+50,Dr Abdallah Anzid,Poitiers,Cardiologue,"['27', 'avril']",
+51,Dr Véronique EDER,Poitiers,Cardiologue,"['26', 'avril']",
+52,Dr Alexandre CHABRUN,Poitiers,Cardiologue,"['26', 'juin']",
+53,Dr Pierre Llaty,Poitiers,Cardiologue,"['13', 'février']",
+54,Dr Jerome Ferrandis,Poitiers,Cardiologue,null,
+55,Dr Barnabas Gellen,Poitiers,Cardiologue,null,
+56,Dr Philippe Hainaut,Poitiers,Cardiologue,null,
+57,Dr Emma Grobost-Dalbin,Poitiers,Cardiologue,null,
+58,Dr Nadine NAMTCHUENG,Poitiers,Cardiologue,"['4', 'mai']",
+59,Dr Nicolas Varroud-Vial,Poitiers,Cardiologue,"['4', 'mai']",
+60,Dr Benoit LEQUEUX,Poitiers,Cardiologue,null,
+61,Dr Jean-Louis Bauplé,Poitiers,Cardiologue,"['10', 'octobre']",
+62,Dr Michele Vaxiviere-Bauplé,Poitiers,Cardiologue,"['19', 'septembre']",
+63,Dr Olivier Floucaud,Poitiers,Cardiologue,null,
+64,Dr Mathilde CLOUARD,Poitiers,Cardiologue,null,
+65,Dr Julien GIRODON,Poitiers,Rhumatologue,"['20', 'mars']",
+66,Dr Anne FRADIN,Poitiers,Rhumatologue,"['4', 'avril']",
+67,Dr Laurie JOFFRES,Poitiers,Rhumatologue,"['24', 'février']",
+68,Dr Elodie LOPPIN,Poitiers,Rhumatologue,"['9', 'mars']",
+69,Dr Bernard PALLIER,Poitiers,Rhumatologue,"['26', 'avril']",
+70,Dr Morgan RAVEL,Rochefourchat,Medecin generaliste,"['11', 'janvier']",
+71,Dr Amandine BOUISSIERE,Rochefourchat,Medecin generaliste,"['12', 'janvier']",
+72,Dr Marine GIRARD,Rochefourchat,Medecin generaliste,"['12', 'janvier']",
+73,Dr Thierry GACON,Rochefourchat,Medecin generaliste,"['16', 'janvier']",
+74,Dr Elise GERARD,Rochefourchat,Medecin generaliste,"['9', 'janvier']",
+75,Dr Dominique Petit,Rochefourchat,Medecin generaliste,"['31', 'janvier']",
+76,Dr Marie Agnès Rabenilalana,Rochefourchat,Medecin generaliste,"['20', 'janvier']",
+77,Dr Alain AMSELEM,Rochefourchat,Medecin generaliste,"['12', 'janvier']",
+78,Dr Maud Le Guillouzic,Rochefourchat,Medecin generaliste,"['19', 'janvier']",
+79,Cabinet de médecine générale de la maison de santé de Buis les Baronnies,Rochefourchat,Medecin generaliste,"['12', 'janvier']",
+80,Dr Fanny CASANOVA,Rochefourchat,Medecin generaliste,"['16', 'janvier']",
+81,Dr Claire Garnier,Rochefourchat,Medecin generaliste,"['12', 'janvier']",
+82,Dr Thierry BLANC,Rochefourchat,Medecin generaliste,"['9', 'janvier']",
+83,Dr Hansiane MAZEYRAT,Rochefourchat,Medecin generaliste,"['13', 'février']",
+84,Dr Véronique GIULIVI,Rochefourchat,Medecin generaliste,"['13', 'avril']",
+85,Dr Justine Delorme,Rochefourchat,Medecin generaliste,"['27', 'janvier']",
+86,Dr Sandrine BEUDON,Rochefourchat,Medecin generaliste,"['11', 'janvier']",
+87,Dr Claire PICATTO,Rochefourchat,Medecin generaliste,"['9', 'janvier']",
+88,Dr Clément BÉTRANCOURT,Rochefourchat,Medecin generaliste,ven. 6 janv. 12:00,
+89,Dr Geta GENUNCHE,Rochefourchat,Medecin generaliste,"['25', 'janvier']",
+90,Dr Bénédicte Michau,Rochefourchat,Medecin generaliste,"['12', 'janvier']",
+91,Dr Laëtitia TOVENA,Rochefourchat,Medecin generaliste,"['9', 'janvier']",
+92,Dr Emilija BORIZOVSKI,Rochefourchat,Medecin generaliste,"['9', 'janvier']",
+93,Dr Thierry BLANC,Rochefourchat,Medecin generaliste,ven. 6 janv. 14:00,
+94,Dr Laure GONNET,Rochefourchat,Medecin generaliste,null,
+95,Dr Chloé RAPP,Rochefourchat,Medecin generaliste,null,
+96,Dr Simon Vaccaro,Rochefourchat,Medecin generaliste,null,
+97,Dr Valérie ROUX,Rochefourchat,Medecin generaliste,null,
+98,Dr Jean ALTMAN,Rochefourchat,Medecin generaliste,null,
+99,Dr Benjamin Mougin,Rochefourchat,Medecin generaliste,null,
+100,Dr Camille Hebert,Rochefourchat,Medecin generaliste,null,
+101,Dr Gaele Drevon,Rochefourchat,Medecin generaliste,null,
+102,Dr Morgane Pellen,Rochefourchat,Medecin generaliste,null,
+103,Pôle santé de la Valdaine,Rochefourchat,Medecin generaliste,null,
+104,Dr Paul FAYE,Rochefourchat,Medecin generaliste,null,
+105,Dr Julien LHERMITTE,Rochefourchat,Medecin generaliste,null,
+106,Dr Bénédicte PIBOYEU,Rochefourchat,Medecin generaliste,null,
+107,Dr Jean-Daniel BARNOUIN,Rochefourchat,Medecin generaliste,null,
+108,Dr Lorena Cagni,Rochefourchat,Medecin generaliste,null,
+109,Dr Marie VANDAME,Rochefourchat,Medecin generaliste,null,
+110,Dr Nasser BELHADI,Rochefourchat,Chirurgien-dentiste,null,
+111,Dr Bruno COGNE,Rochefourchat,Chirurgien-dentiste,null,
+112,Dr Nathalie GIRARD-WARION,Rochefourchat,Chirurgien-dentiste,null,
+113,Centre dentaire Sublim'Dent - Valence,Rochefourchat,Chirurgien-dentiste,null,
+114,Dr Jordi VINCENT,Rochefourchat,Chirurgien-dentiste,null,
+115,Dr Capucine Savattier,Rochefourchat,Chirurgien-dentiste,null,
+116,Dr Tom MAILLEFAUD,Rochefourchat,Chirurgien-dentiste,null,
+117,Dr Christelle BORGEAIS,Rochefourchat,Chirurgien-dentiste,null,
+118,Dr Florin PARFINOVICI,Rochefourchat,Chirurgien-dentiste,null,
+119,Temeoo Cléon-d'Andran,Rochefourchat,Ophtalmologue,"['9', 'janvier']",
+120,Dr Annette Keita-Hartmann,Rochefourchat,Ophtalmologue,"['7', 'mars']",
+121,Dr Alexandre CLAVEL,Rochefourchat,Ophtalmologue,"['27', 'février']",
+122,Dr Jacques Wurtz,Rochefourchat,Ophtalmologue,"['23', 'février']",
+123,Dr Neil Abi-Ayad,Rochefourchat,Ophtalmologue,"['6', 'février']",
+124,Dr Frédéric POLLET VILLARD,Rochefourchat,Ophtalmologue,"['9', 'janvier']",
+125,Dr Charles quarello,Rochefourchat,Ophtalmologue,"['11', 'janvier']",
+126,Dr Bernard Ingignoli,Rochefourchat,Ophtalmologue,"['7', 'février']",
+127,Centre ophtalmologique et rétine,Rochefourchat,Ophtalmologue,"['3', 'avril']",
+128,Dr Jean-Luc Grelier,Rochefourchat,Ophtalmologue,"['3', 'avril']",
+129,Juan Carlos HERNÁNDEZ FERNÁNDEZ,Rochefourchat,Ophtalmologue,"['2', 'février']",
+130,Dr Maher HAOUAS,Rochefourchat,Ophtalmologue,ven. 6 janv. 09:10,
+131,Dr Paul Aracil,Rochefourchat,Ophtalmologue,"['16', 'février']",
+132,Dr Marie-France JANKOWSKI,Rochefourchat,Ophtalmologue,null,
+133,Dr Silvain BOËDA,Rochefourchat,Ophtalmologue,null,
+134,Dr Maud MENDES,Rochefourchat,Ophtalmologue,null,
+135,Dr Pascal FOUR,Rochefourchat,Ophtalmologue,null,
+136,Dr Guillaume PRADIER,Rochefourchat,Ophtalmologue,null,
+137,Dr Pierre FRETTO,Rochefourchat,Ophtalmologue,null,
+138,Dr Anne KAPSA,Rochefourchat,Ophtalmologue,null,
+139,Dr Pâquerette Castell,Rochefourchat,Dermatologue et venerologue,"['9', 'janvier']",
+140,Dr Laurence MITZKAT,Rochefourchat,Dermatologue et venerologue,null,
+141,Dr Isabelle PUECHGUIRAL,Rochefourchat,Dermatologue et venerologue,null,
+142,Cécile BECUWE,Rochefourchat,Dermatologue et venerologue,null,
+143,Dr Laurence MITZKAT,Rochefourchat,Dermatologue et venerologue,null,
+144,Dr Maha KACHKO,Rochefourchat,Dermatologue et venerologue,null,
+145,Dr Veronique MARTIN BOURRET,Rochefourchat,Dermatologue et venerologue,null,
